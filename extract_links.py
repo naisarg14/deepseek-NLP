@@ -1,3 +1,21 @@
+##########################################################################
+## This repository holds the codes for the paper:                       ##
+##                                                                      ##
+## Paper Title:                                                         ##
+##   Understanding user perceptions of DeepSeek: Insights from          ##
+##   sentiment, topic and network analysis using a Reddit-based study   ##
+##                                                                      ##
+## Author:                                                              ##
+##   Naisarg Patel                                                      ##
+##                                                                      ##
+## Journal: Frontiers in Artificial Intelligence                        ##
+## Year: 2026                                                           ##
+## DOI: https://doi.org/10.3389/frai.2025.1703949                       ##
+##                                                                      ##
+## License: GNU General Public License v3.0 (GPL-3.0)                   ##
+## Contact: naisargbpatel14<at>gmail<dot>com                            ##
+##########################################################################
+
 import csv, re, requests, sys
 from tqdm import tqdm
 from collections import Counter
